@@ -1,6 +1,6 @@
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
-import Card from './card'
+import Card from './Card'
 
 
 createRoot(document.getElementById('root')).render(
